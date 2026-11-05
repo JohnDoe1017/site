@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://johndoe1017.github.io/site/sitemap.xml
